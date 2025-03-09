@@ -1570,3 +1570,81 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.09-14.31.47:309][550]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.03.09-14.31.50:161][559]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.03.09-14.31.52:784][566]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.31.57:486][581]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.01:007][591]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.05:272][604]LogMeshUtilities: Finished distance field build in 3.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 58% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.08:374][613]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.11:744][623]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.15:018][633]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.20:586][650]LogMeshUtilities: Finished distance field build in 5.5s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.24:400][661]LogMeshUtilities: Finished distance field build in 3.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.27:167][670]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.32:785][686]LogMeshUtilities: Finished distance field build in 5.6s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.35:789][695]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.38:930][705]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.42:533][716]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.45:815][726]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.48:357][733]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.51:069][741]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.32.53:752][749]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.00:183][769]LogMeshUtilities: Finished distance field build in 6.4s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.03:137][777]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.05:562][785]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.11:324][802]LogMeshUtilities: Finished distance field build in 5.7s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: ================================================
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Total job queries 1 005, among them cache hits 0 (0.00%), DDC hits 108 (10.75%), Duplicates 195 (19.40%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Tracking 810 distinct input hashes that result in 603 distinct outputs (74.44%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: RAM used: 377,47 KiB of 819,20 MiB budget. Usage: 0.04%
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Shaders Compiled: 702
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Jobs assigned 702, completed 702 (100%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Average time worker was idle: 0.56 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Time job spent in pending queue: average 53.97 s, longest 117.57 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Job execution time: average 8.10 s, max 13.11 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Job life time (pending + execution): average 62.07 s, max 118.29
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Shader code size: average 7,393 KiB, min 200 B, max 31,59 KiB
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.82 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 7.71 jobs/batch
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Average processing rate: 5.67 jobs/sec
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Total thread time: 599,489 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Total thread preprocess time: 13,911 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Percentage time preprocessing: 2.32%
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Effective parallelization: 4.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 1.25 sec, max 1.38 sec, min 1.16 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 1.25 sec, max 1.32 sec, min 1.22 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    3 times, average 1.23 sec, max 1.24 sec, min 1.22 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   23 times, average 1.21 sec, max 1.56 sec, min 0.82 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.82% of total time (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.69% of total time (compiled   29 times, average 0.97 sec, max 1.91 sec, min 0.59 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:                                                  FVelocityPS - 4.65% of total time (compiled   23 times, average 1.21 sec, max 1.56 sec, min 0.82 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.23% of total time (compiled   24 times, average 1.06 sec, max 1.30 sec, min 0.69 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.04% of total time (compiled   24 times, average 1.01 sec, max 1.46 sec, min 0.68 sec)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: === Material stats ===
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Materials Translated:    129
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Material Translation Only: 0.05 s (45%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.09-14.33.14:134][810]LogShaderCompilers: Display: ================================================
+[2025.03.09-14.33.14:575][812]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.19:297][826]LogMeshUtilities: Finished distance field build in 4.6s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.21:971][834]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.25:722][845]LogMeshUtilities: Finished distance field build in 3.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.28:321][853]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.30:933][861]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.34:419][871]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.37:309][880]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.40:938][891]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.45:208][904]LogMeshUtilities: Finished distance field build in 4.2s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.48:449][913]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.52:054][924]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.33.54:676][932]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.03.09-14.35.55:439][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.253418
+[2025.03.09-14.35.56:439][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-14.35.56:439][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.920563, Update Interval: 334.972382
