@@ -2876,3 +2876,553 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.09-14.45.06:791][355]LogStaticMesh: Built static mesh [0.68s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
 [2025.03.09-14.45.08:559][355]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
 [2025.03.09-14.45.08:580][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.45.12:725][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.09-14.45.12:746][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.09-14.45.13:405][355]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\ModularBuildingSet\Demo_Scene.umap: [Compiler] Can't connect pins  <Unnamed>  and  Target : Object Reference is not compatible with Level Sequence Editor Blueprint Library Object Reference.
+[2025.03.09-14.45.13:405][355]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\ModularBuildingSet\Demo_Scene.umap: [Compiler] Can't connect pins  Target  and  <Unnamed> : Level Sequence Editor Blueprint Library Object Reference is not compatible with Object Reference.
+[2025.03.09-14.45.13:405][355]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\ModularBuildingSet\Demo_Scene.umap: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.45.13:405][355]LogBlueprint: Warning: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\ModularBuildingSet\Demo_Scene.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.45.13:711][355]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite': MatineeActor /Game/ModularBuildingSet/Demo_Scene.Demo_Scene:PersistentLevel.MatineeActor_1
+[2025.03.09-14.45.13:711][355]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InterpCurveEdSetup_1': InterpData /Game/ModularBuildingSet/Demo_Scene.Demo_Scene:PersistentLevel.MatineeActor_1.InterpData_1
+[2025.03.09-14.45.13:711][355]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneComp': MatineeActor /Game/ModularBuildingSet/Demo_Scene.Demo_Scene:PersistentLevel.MatineeActor_1
+[2025.03.09-14.45.14:061][355]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Scene'.
+[2025.03.09-14.45.14:070][355]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Scene
+[2025.03.09-14.45.14:071][355]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene'.
+[2025.03.09-14.45.25:596][355]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2025.03.09-14.45.25:815][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.09-14.45.25:826][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.09-14.45.25:827][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,035ms to complete.
+[2025.03.09-14.45.46:169][361]LogPSOHitching: Encountered 50 PSO creation hitches so far (42 graphics, 8 compute). 0 of them were precached.
+[2025.03.09-14.45.59:334][ 96]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.45.59:334][ 96]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.45.59:434][ 96]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.45.59:434][ 96]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.45.59:923][108]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.45.59:923][108]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.46.00:022][108]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.46.00:023][108]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.46.00:633][138]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.46.07:066][286]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.46.07:070][286]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.46.08:341][316]LogPSOHitching: Encountered 100 PSO creation hitches so far (92 graphics, 8 compute). 0 of them were precached.
+[2025.03.09-14.46.46:685][174]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.09-14.46.46:701][174]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.09-14.46.46:719][175]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.09-14.46.51:079][437]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.03.09-14.46.51:124][437]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.09-14.47.06:402][291]LogBlueprint: Error: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Can't connect pins  <Unnamed>  and  Target : Object Reference is not compatible with Level Sequence Editor Blueprint Library Object Reference.
+[2025.03.09-14.47.06:402][291]LogBlueprint: Error: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Can't connect pins  Target  and  <Unnamed> : Level Sequence Editor Blueprint Library Object Reference is not compatible with Object Reference.
+[2025.03.09-14.47.06:402][291]LogBlueprint: Error: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.47.06:404][291]LogBlueprint: Warning: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.47.06:567][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.09-14.47.06:579][291]LogBlueprint: Error: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.47.06:579][291]LogBlueprint: Warning: [AssetLog] /Game/Maps/Demo_Scene.Demo_Scene:PersistentLevel.Demo_Scene: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.47.07:126][291]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Scene
+[2025.03.09-14.47.07:138][291]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/Demo_Scene.Demo_Scene'.
+[2025.03.09-14.47.19:779][729]LogContentBrowser: Attempting asset rename: Demo_Scene -> FPS_Level
+[2025.03.09-14.47.20:135][729]LogMetaData: Removing '/Game/Maps/FPS_Level.SKEL_FPS_Level_C' ref from Metadata '/Game/Maps/Demo_Scene.PackageMetaData'
+[2025.03.09-14.47.20:135][729]LogMetaData: Removing '/Game/Maps/FPS_Level.FPS_Level_C' ref from Metadata '/Game/Maps/Demo_Scene.PackageMetaData'
+[2025.03.09-14.47.20:135][729]LogMetaData: Removing '/Game/Maps/FPS_Level.SKEL_FPS_Level_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/Demo_Scene.PackageMetaData'
+[2025.03.09-14.47.20:135][729]LogMetaData: Removing '/Game/Maps/FPS_Level.FPS_Level_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/Demo_Scene.PackageMetaData'
+[2025.03.09-14.47.20:146][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-14.47.20:574][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-14.47.20:674][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.09-14.47.49:513][729]LogSavePackage: Moving output files for package: /Game/Maps/FPS_Level
+[2025.03.09-14.47.49:513][729]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_LevelEE265D504EBDD0E2A367708871776441.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap'
+[2025.03.09-14.47.49:870][729]LogFileHelpers: Saving map 'FPS_Level' took 29.724
+[2025.03.09-14.47.49:871][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.7 sec
+[2025.03.09-14.47.49:899][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.09-14.47.49:917][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.09-14.47.49:933][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.09-14.47.50:035][729]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-14.47.50:035][729]LogContentValidation: Enabled validators:
+[2025.03.09-14.47.50:035][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-14.47.50:035][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-14.47.50:035][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-14.47.50:036][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-14.47.50:036][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-14.47.50:036][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-14.47.50:039][729]AssetCheck: /Game/Maps/FPS_Level Validating asset
+[2025.03.09-14.47.53:193][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.09-14.47.53:205][805]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/FPS_Level.FPS_Level
+[2025.03.09-14.47.53:209][805]Cmd: MAP LOAD FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.03.09-14.47.53:424][805]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-14.47.53:435][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.47.53:524][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.09-14.47.53:611][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.03.09-14.47.53:645][805]LogWorld: UWorld::CleanupWorld for FPS_Level, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-14.47.53:671][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.47.53:796][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.09-14.47.53:865][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.09-14.47.53:868][805]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.09-14.47.54:421][805]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.47.54:421][805]LogBlueprint: Warning: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.47.54:997][805]LogAudio: Display: Audio Device (ID: 1) registered with world 'FPS_Level'.
+[2025.03.09-14.47.54:997][805]LogChaosDD: Creating Chaos Debug Draw Scene for world FPS_Level
+[2025.03.09-14.47.55:002][805]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/FPS_Level.FPS_Level'.
+[2025.03.09-14.47.55:590][805]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2025.03.09-14.47.55:705][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.09-14.47.55:717][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.09-14.47.55:718][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,14ms to complete.
+[2025.03.09-14.48.16:621][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1087.437744
+[2025.03.09-14.48.17:320][809]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.48.17:320][809]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.48.17:420][809]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.48.17:421][809]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.03.09-14.48.17:573][809]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-14.48.17:624][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-14.48.17:625][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1088.405151, Update Interval: 339.718628
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: ================================================
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Total job queries 1 248, among them cache hits 45 (3.61%), DDC hits 108 (8.65%), Duplicates 256 (20.51%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Tracking 947 distinct input hashes that result in 706 distinct outputs (74.55%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: RAM used: 409,86 KiB of 819,20 MiB budget. Usage: 0.05%
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Shaders Compiled: 839
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Jobs assigned 839, completed 839 (100%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Average time worker was idle: 23.02 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Time job spent in pending queue: average 46.85 s, longest 117.57 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Job execution time: average 7.10 s, max 13.11 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Job life time (pending + execution): average 53.95 s, max 118.29
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Shader code size: average 7,377 KiB, min 200 B, max 40,836 KiB
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 181.31 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Jobs were issued in 228 batches (only local compilation was used), average 3.68 jobs/batch
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Average processing rate: 4.63 jobs/sec
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Total thread time: 840,401 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Total thread preprocess time: 18,885 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Percentage time preprocessing: 2.25%
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 1.76 sec, max 2.19 sec, min 1.36 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   49 times, average 1.54 sec, max 3.21 sec, min 0.59 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.99% of total time (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.96% of total time (compiled   49 times, average 1.54 sec, max 3.21 sec, min 0.59 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.01% of total time (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.72% of total time (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display:                                                  FVelocityPS - 3.32% of total time (compiled   23 times, average 1.21 sec, max 1.56 sec, min 0.82 sec)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: === Material stats ===
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Materials Translated:    172
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.09-14.48.25:845][279]LogShaderCompilers: Display: ================================================
+[2025.03.09-14.48.46:830][488]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-14.48.46:908][488]LogPlayLevel: [PlayLevel] Compiling FPS_Level before play...
+[2025.03.09-14.48.46:909][488]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.48.46:909][488]LogBlueprint: Warning: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.48.47:231][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.09-14.48.47:239][488]LogPlayLevel: PlayLevel: Blueprint regeneration took 331 ms (1 blueprints)
+[2025.03.09-14.48.47:239][488]BlueprintLog: Warning: Blueprint failed to compile:  FPS_Level
+[2025.03.09-14.48.51:783][488]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.03.09-14.48.51:878][488]LogSlate: Took 0.001216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.09-14.48.54:391][627]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.48.54:399][627]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.48.55:913][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.09-14.48.55:919][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-14.48.55:967][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-14.48.55:995][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.09-14.49.24:317][715]LogSavePackage: Moving output files for package: /Game/Maps/FPS_Level
+[2025.03.09-14.49.24:319][715]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_Level1D58BAAC4C44555F31745D815BC50BF5.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap'
+[2025.03.09-14.49.24:412][715]LogFileHelpers: Saving map 'FPS_Level' took 28.451
+[2025.03.09-14.49.24:420][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.5 sec (total: 58.2 sec)
+[2025.03.09-14.49.24:520][715]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-14.49.24:520][715]LogContentValidation: Enabled validators:
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-14.49.24:520][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-14.49.24:523][715]AssetCheck: /Game/Maps/FPS_Level Validating asset
+[2025.03.09-14.49.30:403][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-14.49.30:432][ 45]LogPlayLevel: [PlayLevel] Compiling FPS_Level before play...
+[2025.03.09-14.49.30:432][ 45]LogBlueprint: Error: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Cannot use the editor function "Play" in this runtime Blueprint. Only for use in Editor Utility Blueprints and Blutilities.
+[2025.03.09-14.49.30:432][ 45]LogBlueprint: Warning: [AssetLog] G:\UNREAL\FPSvsDrone_UEGame\Content\Maps\FPS_Level.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.03.09-14.49.30:754][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.09-14.49.30:756][ 45]LogPlayLevel: PlayLevel: Blueprint regeneration took 324 ms (1 blueprints)
+[2025.03.09-14.49.30:756][ 45]BlueprintLog: Warning: Blueprint failed to compile:  FPS_Level
+[2025.03.09-14.49.32:393][ 45]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.FPS_Level
+[2025.03.09-14.49.32:395][ 45]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.03.09-14.49.32:396][ 45]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.03.09-14.49.32:501][ 45]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.09-14.49.33:509][ 45]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.03.09-14.49.33:626][ 45]LogSlate: Took 0.000807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.09-14.49.35:649][143]LogBlueprint: Warning: Unknown type of hyperlinked object (FPS_Level), cannot focus it
+[2025.03.09-14.49.35:649][143]LogBlueprint: Warning: Unknown type of hyperlinked object (FPS_Level), cannot focus it
+[2025.03.09-14.49.44:512][670]LogBlueprint: Warning: Unknown type of hyperlinked object (FPS_Level), cannot focus it
+[2025.03.09-14.49.44:512][670]LogBlueprint: Warning: Unknown type of hyperlinked object (FPS_Level), cannot focus it
+[2025.03.09-14.49.45:976][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.09-14.49.46:483][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-14.49.46:517][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-14.49.46:554][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.09-14.50.15:086][762]LogSavePackage: Moving output files for package: /Game/Maps/FPS_Level
+[2025.03.09-14.50.15:087][762]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_Level1DFD588741FB1A5B1D11FFA387A1326F.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap'
+[2025.03.09-14.50.15:142][762]LogFileHelpers: Saving map 'FPS_Level' took 28.630
+[2025.03.09-14.50.15:148][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.6 sec (total: 1:26 min)
+[2025.03.09-14.50.15:256][762]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-14.50.15:256][762]LogContentValidation: Enabled validators:
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-14.50.15:256][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-14.50.15:260][762]AssetCheck: /Game/Maps/FPS_Level Validating asset
+[2025.03.09-14.50.19:157][818]LogSlate: Window 'FPS_Level' being destroyed
+[2025.03.09-14.50.19:164][818]LogSlate: Window 'FPS_Level' being destroyed
+[2025.03.09-14.50.19:182][818]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-14.50.19:182][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.50.19:241][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.03.09-14.50.20:384][886]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.50.20:390][886]LogSlate: Window 'Message Log' being destroyed
+[2025.03.09-14.50.25:135][166]LogPSOHitching: Encountered 150 PSO creation hitches so far (142 graphics, 8 compute). 0 of them were precached.
+[2025.03.09-14.51.59:927][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-14.52.01:020][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.09-14.52.01:026][312]LogPlayLevel: Display: Creating online subsystem for client :Context_2
+[2025.03.09-14.52.01:033][312]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.03.09-14.52.01:105][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Level
+[2025.03.09-14.52.01:769][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.663870s)
+[2025.03.09-14.52.01:769][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Level.FPS_Level to /Game/Maps/UEDPIE_0_FPS_Level.FPS_Level (0.663966s)
+[2025.03.09-14.52.01:794][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.03.09-14.52.01:800][313]LogChaosDD: Creating Chaos Debug Draw Scene for world FPS_Level
+[2025.03.09-14.52.01:804][313]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_FPS_Level.FPS_Level'.
+[2025.03.09-14.52.01:808][313]LogPlayLevel: PIE: World Init took: (0.007708s)
+[2025.03.09-14.52.01:813][313]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.09-14.52.01:814][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.09-14.52.01:815][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.09-14.52.01:816][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.09-14.52.01:816][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.09-14.52.01:816][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.09-14.52.01:820][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.09-14.52.01:855][313]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (GH900)
+[2025.03.09-14.52.01:858][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.09-14.52.01:858][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.09-14.52.01:859][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.09-14.52.01:862][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.09-14.52.01:862][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2025.03.09-14.52.01:866][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.09-14.52.01:866][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.09-14.52.01:866][313]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.09-14.52.01:866][313]LogAudio: Display: Audio Device (ID: 2) registered with world 'FPS_Level'.
+[2025.03.09-14.52.01:866][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.09-14.52.01:877][313]LogLoad: Game class is 'GameModeBase'
+[2025.03.09-14.52.02:218][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Level.FPS_Level up for play (max tick rate 60) at 2025.03.09-15.52.02
+[2025.03.09-14.52.02:230][313]LogWorld: Bringing up level for play took: 0.351760
+[2025.03.09-14.52.02:272][313]PIE: Server logged in
+[2025.03.09-14.52.02:274][313]PIE: Play in editor total start time 1,268 seconds.
+[2025.03.09-14.52.07:737][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-14.52.07:737][608]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Level
+[2025.03.09-14.52.07:742][608]LogWorld: UWorld::CleanupWorld for FPS_Level, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-14.52.07:841][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.52.07:852][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.09-14.52.07:866][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-14.52.07:901][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.09-14.52.07:934][608]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.09-14.52.07:935][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.09-14.52.07:939][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.09-14.52.07:945][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-14.52.08:020][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2025.03.09-14.52.08:157][609]Cmd: SELECT NONE
+[2025.03.09-14.52.08:176][609]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.03.09-14.54.12:865][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1443.679077
+[2025.03.09-14.54.13:865][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-14.54.13:865][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1444.346191, Update Interval: 352.952057
+[2025.03.09-15.00.33:593][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1824.407593
+[2025.03.09-15.00.34:593][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-15.00.34:593][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1825.074219, Update Interval: 305.370636
+[2025.03.09-15.06.13:317][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2164.126221
+[2025.03.09-15.06.14:316][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-15.06.14:316][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2164.792236, Update Interval: 339.932861
+[2025.03.09-15.11.08:891][343]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-15.11.09:141][345]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-15.11.09:141][345]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-15.11.09:281][345]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-15.11.09:281][345]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: ================================================
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Total job queries 1 256, among them cache hits 49 (3.90%), DDC hits 108 (8.60%), Duplicates 256 (20.38%)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Tracking 951 distinct input hashes that result in 710 distinct outputs (74.66%)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: RAM used: 411,48 KiB of 819,20 MiB budget. Usage: 0.05%
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Shaders Compiled: 843
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Jobs assigned 843, completed 843 (100%)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Average time worker was idle: 46.79 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 46.63 s, longest 117.57 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Job execution time: average 7.12 s, max 13.11 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 53.74 s, max 118.29
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Shader code size: average 7,518 KiB, min 200 B, max 40,836 KiB
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 192.16 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Jobs were issued in 232 batches (only local compilation was used), average 3.63 jobs/batch
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Average processing rate: 4.39 jobs/sec
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Total thread time: 879,912 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Total thread preprocess time: 19,095 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Percentage time preprocessing: 2.17%
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Effective parallelization: 4.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   53 times, average 2.17 sec, max 9.97 sec, min 0.59 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 1.76 sec, max 2.19 sec, min 1.36 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.05% of total time (compiled   53 times, average 2.17 sec, max 9.97 sec, min 0.59 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.49% of total time (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.65% of total time (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.37% of total time (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display:                                                  FVelocityPS - 3.17% of total time (compiled   23 times, average 1.21 sec, max 1.56 sec, min 0.82 sec)
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: === Material stats ===
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Materials Translated:    172
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.03.09-15.12.26:352][  5]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.03.09-15.12.26:353][  5]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.09-15.12.26:353][  5]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.09-15.12.26:353][  5]LogShaderCompilers: Display: ================================================
+[2025.03.09-15.12.27:119][ 47]LogPSOHitching: Encountered 200 PSO creation hitches so far (192 graphics, 8 compute). 0 of them were precached.
+[2025.03.09-15.12.50:371][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2561.184570
+[2025.03.09-15.12.50:558][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-15.12.50:558][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2561.352051, Update Interval: 309.538269
+[2025.03.09-15.13.20:008][ 85]Cmd: DELETE
+[2025.03.09-15.13.20:008][ 85]Cmd: ACTOR DELETE
+[2025.03.09-15.13.20:160][ 85]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2025.03.09-15.13.20:193][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.03.09-15.13.20:199][ 85]LogEditorActor: Deleted 1 Actors (0.191 secs)
+[2025.03.09-15.13.22:246][205]Cmd: DELETE
+[2025.03.09-15.13.22:246][205]Cmd: ACTOR DELETE
+[2025.03.09-15.13.22:389][205]LogEditorActor: Deleted Actor: AtmosphericFog
+[2025.03.09-15.13.22:413][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.09-15.13.22:417][205]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2025.03.09-15.13.28:180][548]Cmd: DELETE
+[2025.03.09-15.13.28:180][548]Cmd: ACTOR DELETE
+[2025.03.09-15.13.28:323][548]LogEditorActor: Deleted Actor: SkyLight
+[2025.03.09-15.13.28:347][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.09-15.13.28:350][548]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2025.03.09-15.13.30:219][657]Cmd: DELETE
+[2025.03.09-15.13.30:219][657]Cmd: ACTOR DELETE
+[2025.03.09-15.13.30:367][657]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.03.09-15.13.30:394][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.09-15.13.30:395][657]LogEditorActor: Deleted 1 Actors (0.176 secs)
+[2025.03.09-15.14.15:829][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.03.09-15.14.15:829][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.03.09-15.14.15:834][770]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyAtmosphere_0
+[2025.03.09-15.14.15:843][770]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyAtmosphere_0
+[2025.03.09-15.14.16:855][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.09-15.14.16:857][811]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.03.09-15.14.16:871][811]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.03.09-15.14.16:871][811]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.03.09-15.14.16:890][811]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyAtmosphere_1
+[2025.03.09-15.14.16:896][811]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyAtmosphere_1
+[2025.03.09-15.14.30:216][124]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.03.09-15.14.30:216][124]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.03.09-15.14.30:221][124]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.DirectionalLight_0
+[2025.03.09-15.14.30:227][124]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.DirectionalLight_0
+[2025.03.09-15.14.30:590][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.09-15.14.30:592][127]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.03.09-15.14.30:610][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.03.09-15.14.30:610][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.03.09-15.14.30:629][127]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.DirectionalLight_1
+[2025.03.09-15.14.30:634][127]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.DirectionalLight_1
+[2025.03.09-15.15.10:586][318]Cmd: POLY SELECT ADJACENT WALLS
+[2025.03.09-15.16.12:550][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.09-15.16.13:683][641]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.09-15.16.14:312][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.09-15.16.14:386][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Saved/Autosaves/Game/Maps/FPS_Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.03.09-15.16.42:668][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Level_Auto1
+[2025.03.09-15.16.42:668][674]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_Level_Auto149FD407E4CD5EAA83FA6B39AF3926EC5.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Saved/Autosaves/Game/Maps/FPS_Level_Auto1.umap'
+[2025.03.09-15.16.42:678][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Level' took 28.393
+[2025.03.09-15.16.42:678][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 28.393
+[2025.03.09-15.18.17:928][349]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.03.09-15.18.17:928][349]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: ================================================
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Total job queries 1 260, among them cache hits 51 (4.05%), DDC hits 108 (8.57%), Duplicates 257 (20.40%)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Tracking 952 distinct input hashes that result in 711 distinct outputs (74.68%)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: RAM used: 411,75 KiB of 819,20 MiB budget. Usage: 0.05%
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Shaders Compiled: 844
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Jobs assigned 844, completed 844 (100%)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Average time worker was idle: 48.47 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Time job spent in pending queue: average 46.57 s, longest 117.57 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Job execution time: average 7.12 s, max 13.11 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Job life time (pending + execution): average 53.69 s, max 118.29
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Shader code size: average 7,516 KiB, min 200 B, max 40,836 KiB
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 200.29 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Jobs were issued in 233 batches (only local compilation was used), average 3.62 jobs/batch
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Average processing rate: 4.21 jobs/sec
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Total thread time: 880,677 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Total thread preprocess time: 19,16 s
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Percentage time preprocessing: 2.18%
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Effective parallelization: 4.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   54 times, average 2.14 sec, max 9.97 sec, min 0.59 sec)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 1.76 sec, max 2.19 sec, min 1.36 sec)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-15.18.26:416][843]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.12% of total time (compiled   54 times, average 2.14 sec, max 9.97 sec, min 0.59 sec)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.49% of total time (compiled   46 times, average 2.01 sec, max 10.01 sec, min 0.69 sec)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.64% of total time (compiled   46 times, average 1.46 sec, max 6.13 sec, min 0.63 sec)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.37% of total time (compiled   22 times, average 2.95 sec, max 4.23 sec, min 1.91 sec)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display:                                                  FVelocityPS - 3.17% of total time (compiled   23 times, average 1.21 sec, max 1.56 sec, min 0.82 sec)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: === Material stats ===
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Materials Translated:    172
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.09-15.18.26:417][843]LogShaderCompilers: Display: ================================================
+[2025.03.09-15.18.48:296][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2919.111816
+[2025.03.09-15.18.48:497][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-15.18.48:497][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2919.296387, Update Interval: 326.069519
+[2025.03.09-15.19.58:394][702]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.09-15.19.58:396][702]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.03.09-15.19.58:483][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.03.09-15.19.58:483][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.03.09-15.19.58:490][704]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.BP_Sky_Sphere_C_0
+[2025.03.09-15.19.58:498][704]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.BP_Sky_Sphere_C_0
+[2025.03.09-15.20.00:080][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.09-15.20.00:082][769]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.03.09-15.20.00:101][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.03.09-15.20.00:101][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.03.09-15.20.00:120][769]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.BP_Sky_Sphere_C_1
+[2025.03.09-15.20.00:127][769]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.BP_Sky_Sphere_C_1
+[2025.03.09-15.22.02:276][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.09-15.22.02:286][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-15.22.02:320][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-15.22.02:373][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.09-15.22.30:928][194]LogSavePackage: Moving output files for package: /Game/Maps/FPS_Level
+[2025.03.09-15.22.30:929][194]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_LevelB89424F14A162A98A0E940AF112CFBC5.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap'
+[2025.03.09-15.22.30:982][194]LogFileHelpers: Saving map 'FPS_Level' took 28.666
+[2025.03.09-15.22.30:989][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.7 sec (total: 1:55 min)
+[2025.03.09-15.22.31:079][194]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-15.22.31:079][194]LogContentValidation: Enabled validators:
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-15.22.31:079][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-15.22.31:083][194]AssetCheck: /Game/Maps/FPS_Level Validating asset
+[2025.03.09-15.23.25:791][  6]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.03.09-15.23.25:791][  6]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.03.09-15.24.52:974][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3283.777344
+[2025.03.09-15.24.53:177][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-15.24.53:177][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3283.962402, Update Interval: 353.034454
+[2025.03.09-15.24.57:506][645]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.03.09-15.24.57:506][645]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.03.09-15.24.57:512][645]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyLight_0
+[2025.03.09-15.24.57:517][645]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyLight_0
+[2025.03.09-15.24.57:794][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.09-15.24.57:797][646]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.03.09-15.24.57:924][646]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.03.09-15.24.57:924][646]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.03.09-15.24.57:945][646]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyLight_2
+[2025.03.09-15.24.57:950][646]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/FPS_Level.FPS_Level:PersistentLevel.SkyLight_2
+[2025.03.09-15.26.37:007][275]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.02:758][803]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.05:045][937]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.07:214][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.11:807][336]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.27:153][250]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.30:212][375]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.33:275][556]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.39:583][930]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.27.50:065][304]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.28.03:411][ 95]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.28.12:204][611]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-15.28.22:288][199]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.09-15.30.01:864][  1]LogDerivedDataCache: C:/Users/mojme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.09-15.30.07:817][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.09-15.30.07:830][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-15.30.07:862][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Level" FILE="G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.09-15.30.08:985][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.09-15.30.38:972][109]LogSavePackage: Moving output files for package: /Game/Maps/FPS_Level
+[2025.03.09-15.30.38:974][109]LogSavePackage: Moving 'G:/UNREAL/FPSvsDrone_UEGame/Saved/FPS_LevelDD8C37ED44E56DE2B32F81A88FBB1C74.tmp' to 'G:/UNREAL/FPSvsDrone_UEGame/Content/Maps/FPS_Level.umap'
+[2025.03.09-15.30.39:027][109]LogFileHelpers: Saving map 'FPS_Level' took 31.171
+[2025.03.09-15.30.39:037][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.2 sec (total: 2:26 min)
+[2025.03.09-15.30.39:121][109]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.09-15.30.39:121][109]LogContentValidation: Enabled validators:
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.09-15.30.39:121][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.09-15.30.39:125][109]AssetCheck: /Game/Maps/FPS_Level Validating asset
+[2025.03.09-15.30.47:068][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.09-15.30.47:152][579]LogStall: Shutdown...
+[2025.03.09-15.30.47:152][579]LogStall: Shutdown complete.
+[2025.03.09-15.30.47:192][579]LogSlate: Window 'FirstPersonShooter - Unreal Editor' being destroyed
+[2025.03.09-15.30.47:193][579]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.03.09-15.30.47:363][579]Cmd: QUIT_EDITOR
+[2025.03.09-15.30.47:363][579]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.09-15.30.47:378][580]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.09-15.30.47:379][580]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.09-15.30.47:379][580]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.09-15.30.47:598][580]LogWorld: UWorld::CleanupWorld for FPS_Level, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-15.30.47:606][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-15.30.47:651][580]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.09-15.30.47:660][580]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.09-15.30.47:671][580]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-15.30.47:671][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-15.30.47:676][580]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-15.30.47:676][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-15.30.47:700][580]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.09-15.30.47:708][580]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.09-15.30.47:708][580]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.09-15.30.47:708][580]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.09-15.30.48:026][580]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.09-15.30.48:026][580]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.09-15.30.48:026][580]LogAudio: Display: Audio Device unregistered from world 'FPS_Level'.
+[2025.03.09-15.30.48:026][580]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.09-15.30.48:026][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-15.30.48:029][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-15.30.48:039][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.09-15.30.48:039][580]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.09-15.30.48:045][580]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.09-15.30.48:046][580]LogExit: Preparing to exit.
+[2025.03.09-15.30.48:117][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.09-15.30.48:124][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:125][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:127][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.48:128][580]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-15.30.49:217][580]LogEditorDataStorage: Deinitializing
+[2025.03.09-15.30.49:463][580]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.09-15.30.49:544][580]LogExit: Editor shut down
+[2025.03.09-15.30.49:549][580]LogExit: Transaction tracking system shut down
+[2025.03.09-15.30.50:121][580]LogExit: Object subsystem successfully closed.
+[2025.03.09-15.30.50:183][580]LogShaderCompilers: Display: Shaders left to compile 0
