@@ -2302,6 +2302,7 @@
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/HUD/GameMode_HUD.uasset",
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/GameMode/SessionState.uasset",
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/Character/Animation/Arms_Inspect_Montage.uasset",
+				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/Character/Animation/WalkingBlendSpace.uasset",
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Assets/Characters/Arms/Arms_Animations/Anim_Montages/Arms_Inspect_Montage.uasset",
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/Ammo/AmmoPickup.uasset",
 				"G:/UNREAL/FPSvsDrone_UEGame/Content/Blueprints/Health/HealthPickup.uasset",
