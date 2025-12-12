@@ -1,0 +1,71 @@
+# ========== UNREAL ENGINE ==========
+# Zbędne i generowane foldery
+Saved/
+Intermediate/
+DerivedDataCache/
+IntermediateProjectFiles/
+
+# Build
+Binaries/
+Build/
+
+# Crash/Log files
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.pdb
+*.log
+*.vs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio / Rider / CLion files
+.vscode/
+.vs/
+.idea/
+
+# UProject autosaves
+*.uproject.sublime-workspace
+*.uproject.sublime-project
+
+# Ignore local Config overrides (zostaw Config/)
+Config/DefaultEditorSettings.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Unreal Plugin Intermediate Files
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# Ignore compiled shaders and asset cache
+DerivedDataCache/
+
+# Launcher install files
+*.manifest
+*.archive
+
+# Ignore build output
+*.target
+*.modules
+*.generated.cpp
+*.generated.h
+*.gen.cpp
+*.gen.h
+
+# Ignore packaged projects
+Packaging/
+Dist/
+WindowsNoEditor/
+LinuxNoEditor/
+Android/
+iOS/
+
+# Ignore automation test folders
+Saved/Automation/
+
+# Optional: Ignore user-specific config files
+*.user
+*.userprefs
